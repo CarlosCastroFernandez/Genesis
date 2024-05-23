@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "elysia": "^1.0.21",
     "express": "^4.19.2"
   },
   "name": "bun-y-express",
