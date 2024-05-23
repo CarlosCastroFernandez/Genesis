@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "name": "bun-y-express",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   }
 }
